@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9713ea14.css",
-    "main.js": "/static/js/main.579a0b06.js",
+    "main.js": "/static/js/main.faa6e6dd.js",
     "static/media/Logo Svt copiar.png": "/static/media/Logo Svt copiar.85c39b2bee6f52793914.png",
     "static/media/MONTSERRAT-BOLD.TTF": "/static/media/MONTSERRAT-BOLD.50f0257aa1e905f4bfaf.TTF",
     "static/media/MONTSERRAT-SEMIBOLD.TTF": "/static/media/MONTSERRAT-SEMIBOLD.93b37a465fc4ec0d0415.TTF",
@@ -11,10 +11,10 @@
     "static/media/codeInPaper.jpeg": "/static/media/codeInPaper.073c72bf5559c54f7260.jpeg",
     "index.html": "/index.html",
     "main.9713ea14.css.map": "/static/css/main.9713ea14.css.map",
-    "main.579a0b06.js.map": "/static/js/main.579a0b06.js.map"
+    "main.faa6e6dd.js.map": "/static/js/main.faa6e6dd.js.map"
   },
   "entrypoints": [
     "static/css/main.9713ea14.css",
-    "static/js/main.579a0b06.js"
+    "static/js/main.faa6e6dd.js"
   ]
 }
