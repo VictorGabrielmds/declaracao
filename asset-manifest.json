@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/victorgabrielmds.github.io/static/css/main.043b847b.css",
-    "main.js": "/victorgabrielmds.github.io/static/js/main.49d73378.js",
+    "main.js": "/victorgabrielmds.github.io/static/js/main.caa76675.js",
     "static/js/453.66e8e402.chunk.js": "/victorgabrielmds.github.io/static/js/453.66e8e402.chunk.js",
     "static/media/Logo Svt copiar.png": "/victorgabrielmds.github.io/static/media/Logo Svt copiar.85c39b2bee6f52793914.png",
     "static/media/MONTSERRAT-BOLD.TTF": "/victorgabrielmds.github.io/static/media/MONTSERRAT-BOLD.50f0257aa1e905f4bfaf.TTF",
@@ -12,11 +12,11 @@
     "static/media/codeInPaper.jpeg": "/victorgabrielmds.github.io/static/media/codeInPaper.073c72bf5559c54f7260.jpeg",
     "index.html": "/victorgabrielmds.github.io/index.html",
     "main.043b847b.css.map": "/victorgabrielmds.github.io/static/css/main.043b847b.css.map",
-    "main.49d73378.js.map": "/victorgabrielmds.github.io/static/js/main.49d73378.js.map",
+    "main.caa76675.js.map": "/victorgabrielmds.github.io/static/js/main.caa76675.js.map",
     "453.66e8e402.chunk.js.map": "/victorgabrielmds.github.io/static/js/453.66e8e402.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.043b847b.css",
-    "static/js/main.49d73378.js"
+    "static/js/main.caa76675.js"
   ]
 }
