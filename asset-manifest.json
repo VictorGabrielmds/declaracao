@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9713ea14.css",
-    "main.js": "/static/js/main.390f3fdf.js",
-    "static/js/453.66e8e402.chunk.js": "/static/js/453.66e8e402.chunk.js",
-    "static/media/Logo Svt copiar.png": "/static/media/Logo Svt copiar.85c39b2bee6f52793914.png",
-    "static/media/MONTSERRAT-BOLD.TTF": "/static/media/MONTSERRAT-BOLD.50f0257aa1e905f4bfaf.TTF",
-    "static/media/MONTSERRAT-SEMIBOLD.TTF": "/static/media/MONTSERRAT-SEMIBOLD.93b37a465fc4ec0d0415.TTF",
-    "static/media/MONTSERRAT-MEDIUM.TTF": "/static/media/MONTSERRAT-MEDIUM.b8c6753baa964ccac1ba.TTF",
-    "static/media/MONTSERRAT-REGULAR.TTF": "/static/media/MONTSERRAT-REGULAR.24785cc015b27a3e964b.TTF",
-    "static/media/img.jpeg": "/static/media/img.694e52538e43a9604239.jpeg",
-    "static/media/codeInPaper.jpeg": "/static/media/codeInPaper.073c72bf5559c54f7260.jpeg",
-    "index.html": "/index.html",
-    "main.9713ea14.css.map": "/static/css/main.9713ea14.css.map",
-    "main.390f3fdf.js.map": "/static/js/main.390f3fdf.js.map",
-    "453.66e8e402.chunk.js.map": "/static/js/453.66e8e402.chunk.js.map"
+    "main.css": "/victorgabrielmds.github.io/static/css/main.043b847b.css",
+    "main.js": "/victorgabrielmds.github.io/static/js/main.49d73378.js",
+    "static/js/453.66e8e402.chunk.js": "/victorgabrielmds.github.io/static/js/453.66e8e402.chunk.js",
+    "static/media/Logo Svt copiar.png": "/victorgabrielmds.github.io/static/media/Logo Svt copiar.85c39b2bee6f52793914.png",
+    "static/media/MONTSERRAT-BOLD.TTF": "/victorgabrielmds.github.io/static/media/MONTSERRAT-BOLD.50f0257aa1e905f4bfaf.TTF",
+    "static/media/MONTSERRAT-SEMIBOLD.TTF": "/victorgabrielmds.github.io/static/media/MONTSERRAT-SEMIBOLD.93b37a465fc4ec0d0415.TTF",
+    "static/media/MONTSERRAT-MEDIUM.TTF": "/victorgabrielmds.github.io/static/media/MONTSERRAT-MEDIUM.b8c6753baa964ccac1ba.TTF",
+    "static/media/MONTSERRAT-REGULAR.TTF": "/victorgabrielmds.github.io/static/media/MONTSERRAT-REGULAR.24785cc015b27a3e964b.TTF",
+    "static/media/img.jpeg": "/victorgabrielmds.github.io/static/media/img.694e52538e43a9604239.jpeg",
+    "static/media/codeInPaper.jpeg": "/victorgabrielmds.github.io/static/media/codeInPaper.073c72bf5559c54f7260.jpeg",
+    "index.html": "/victorgabrielmds.github.io/index.html",
+    "main.043b847b.css.map": "/victorgabrielmds.github.io/static/css/main.043b847b.css.map",
+    "main.49d73378.js.map": "/victorgabrielmds.github.io/static/js/main.49d73378.js.map",
+    "453.66e8e402.chunk.js.map": "/victorgabrielmds.github.io/static/js/453.66e8e402.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9713ea14.css",
-    "static/js/main.390f3fdf.js"
+    "static/css/main.043b847b.css",
+    "static/js/main.49d73378.js"
   ]
 }
